@@ -11,11 +11,10 @@
 # Place this content in it and then make the file executable:
 # sudo chmod +x Install_postgresql.sh
 # Execute the script to install Odoo:
-# ./odoo-install
+# ./Install_postgresql
 ################################################################################
 
 OE_USER="odoo"
-OE_CONFIG="${OE_USER}-server"
 
 
 #--------------------------------------------------
